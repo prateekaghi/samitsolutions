@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Samudra Vijay",
+    "role": "Chief Executive Officer",
+    "imageUrl": "samudravijay",
+    "bio": "Experienced Chief Executive Officer with a demonstrated history of working in the ITSM, Industrial automation, SCADA, Information Technology, Cloud Computing, Network Security, Software Development, and Mathematical Modeling of Energy Systems. Skilled in Analytical Skills, Entrepreneurship, Management, and Start-ups. Strong business development professional with a Doctor of Philosophy (PhD), focused on Energy and the Environment, in Engineering Systems Division from Massachusetts Institute of Technology."
+  },
+  {
+    "name": "Jamie Pleasants",
+    "role": "Chief Operations Officer",
+    "imageUrl": "Jamiepleasants",
+    "bio": "Jamie is the Chief Operations Officer at SAM IT Solutions with a deep knowledge of Information Technology, Cloud Computing, Networking, Web Development, Virtualization and the Microsoft ecosystem. He oversees project management, business operations and ensures the continuity of high-quality work for the businesses we serve. He values community, non-conventional problem solving and the advancement of technology. He ensures our customers are provided with leading-edge technology and solutions."
+  },
+  {
+    "name": "Bob Monaghan",
+    "role": "Account Manager",
+    "imageUrl": "Bobmonaghan",
+    "bio": "Attended the University of North Carolina where he received his bachelor’s degree in Business Administration. Most of his professional career has been working with companies where he’s had the opportunity to gain insight and experience into many facets of business operations. Experienced in developing sales organizations and strategic partnerships."
+  },
+  {
+    "name": "Balakrishna Subramoney",
+    "role": "Lead Analyst – Cybersecurity.",
+    "imageUrl": "Balakrishnasubramoney",
+    "bio": "Balu is a CISSP since 2014. He manages all Cybersecurity initiates at Sam IT Solutions. Developing and implementing solutions and strategies for cyber risk mitigation within SMBs (Small and Medium Businesses) and ICS (Industrial Control Systems) is his wheelhouse. His work includes supporting ISO 27001 implementation, performing security assessments (passive and active),  evaluating and analyzing security controls of simple and complex systems on-premises and in the Cloud. He advocates the NIST standards and guidelines for cybersecurity. He is also passionate about IT and learning."
+  },
+  {
+    "name": "Caroline High",
+    "role": "IT Technician",
+    "imageUrl": "Carolinehigh",
+    "bio": "Caroline High has been an IT Technician with the company for the past 2 years. She graduated from Christopher Newport University with a bachelor in Information Science with a concentration in Information System. Previously, she was an optometric technician with 12 years of experience. Her know-how and ability to take proactive measures to ensure customers’ needs are met are what makes her a great addition to our team. She enjoys playing flag football and soccer in her free time."
+  }
+]

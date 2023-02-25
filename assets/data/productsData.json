@@ -1,0 +1,401 @@
+[
+  {
+    "mainheading": "Eatstax(Online Ordering for Restaurants)",
+    "productImage": "/assets/images/products/eatstax.png",
+    "productIntro": [
+      "Boost Your Revenue By Joining the Online Ordering Platform!",
+      "EatStax Online Food Ordering Platform makes easy to go online"
+    ],
+    "content": {
+      "What is EatStax?": {
+        "type": "paragraph",
+        "data": [
+          {
+            "type": "paragraph",
+            "text": "An online ordering solution for restaurants. Here at EatStax, we believe in flexibility so we have designed the platform to be able to be tailored to your individual needs.",
+            "link": false
+          }
+        ]
+      },
+      "Payments Made Easy": {
+        "type": "paragraph",
+        "data": [
+          {
+            "type": "paragraph",
+            "text": "Through our integration of Stripe and all major credit card providers, customers payments will be received instantly in your account. Time is money, and we don’t believe in wasting a single second.",
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "Visit the website here:",
+            "link": "https://eatstax.com/"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "mainheading": "Altaro",
+    "productImage": "/assets/images/products/altaro.png",
+    "productIntro": [
+      "Altaro is a fast-growing, easy to use and affordable backup solutions for small- to medium-sized businesses, specializing in backup for virtualized environments.",
+      "Our aim is to delight our customers with full-featured, affordable backup software backed by an outstanding, personal Support team who are determined to help you succeed in protecting your Hyper-V and VMware environment."
+    ],
+    "content": {
+      "Virtual Machine backup for Hyper-V & VMware": {
+        "type": "paragraph",
+        "data": [
+          {
+            "type": "paragraph",
+            "text": "Altaro VM Backup is a full-featured and easy to use VM backup solution for Hyper-V and VMware, giving you all you need at unbeatable value, backed by outstanding support.",
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "Altaro VM Backup offers you most of the features found in competing offers aimed at enterprise-level users at a fraction of the price. A few of its capabilities at a glance",
+            "link": false
+          },
+          {
+            "type": "list",
+            "text": [
+              "Offsite Backup Replication, for disaster recovery protection",
+              "Instant Exchange Server Item-Level Restore",
+              "Instant File Level Restore",
+              "Supports Hyper-V Cluster Shared Volumes (CSV) & VMware vCenter great for larger environments",
+              "Remotely manage all VM backup/restore jobs across your Hyper-V and VMware hosts from a central console",
+              "Back up live VMs with zero downtime",
+              "Compression and Encryption"
+            ],
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "Why pay 2-3x the price of similar solutions or depend on unreliable DIY tools? Download your copy of Altaro VM Backup now and enjoy unlimited functionality for 30 days. After your 30-day trial expires, you can continue using the product for up to 2 VMs for free, forever – No catch.",
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "For more information on features and pricing, please visit",
+            "link": "http://www.altaro.com/vm-backup/"
+          },
+          {
+            "type": "paragraph",
+            "text": "Looking for Hyper-V guides, tips and eBooks? Check out the #1 Hyper-V blog at ",
+            "link": "http://www.altaro.com/hyper-v/"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "mainheading": "Carbonite",
+    "productImage": "/assets/images/products/carbonite.png",
+    "productIntro": [],
+    "content": {
+      "Security in Backing Up": {
+        "type": "paragraph",
+        "data": [
+          {
+            "type": "paragraph",
+            "text": "Whether you are working to keep your backups HIPAA complaint or are looking to improve your disaster recovery plan, Carbonite is the solution you have been looking for.",
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "Start your Free Trial Today!",
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "",
+            "link": "http://partners.carbonite.com/samitsolutions"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "mainheading": "G Suite (Gmail for Business)",
+    "productImage": "/assets/images/products/gsuite.png",
+    "productIntro": [],
+    "content": {
+      "Technology that Brings Teams Together": {
+        "type": "paragraph",
+        "data": [
+          {
+            "type": "paragraph",
+            "text": "The G Suite for Business offering includes Gmail, Hnagouts, Calendar, Google Drive, and google offices suite (Docs, Sheets, Forms, Slides, and Sites). Manage how your business communicates electronically with the outside world at the touch of a mouse. Create new and disable accounts within minutes.",
+            "link": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "mainheading": "Office 365",
+    "productImage": "/assets/images/products/office365.png",
+    "productIntro": [],
+    "content": {
+      "Your Office Anywhere": {
+        "type": "paragraph",
+        "data": [
+          {
+            "type": "paragraph",
+            "text": "With Office 365 Business, familiar tools like Word, Excel, PowerPoint, and Outlook are available where and when you need them. Collaboration is simplified since your files are stored online, you can share them with anyone, even co-author, in real time. No matter where you are.",
+            "link": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "mainheading": "MaaS360 (Mobile Device Management)",
+    "productImage": "/assets/images/products/maas.png",
+    "productImage2": "../assets/products/maas2.png",
+    "freetrial": "https://m3.maas360.com/tryMDM/SK_SAMSOLU03_MDM_C",
+    "productIntro": [],
+    "content": {
+      "Mobile Device Management (MDM)": {
+        "type": "paragraph",
+        "data": [
+          {
+            "type": "paragraph",
+            "text": "",
+            "link": false
+          }
+        ]
+      },
+      "SERVICES PROVIDED": {
+        "type": "orderedlist",
+        "data": [
+          {
+            "type": "list",
+            "text": {
+              "Fast Enrollment of Mobile Devices": [
+                "iOS, Android, Windows Phone, and BlackBerry Compatible"
+              ]
+            },
+            "link": false
+          },
+          {
+            "type": "list",
+            "text": {
+              "Integration with Enterprise Systems such as Microsoft Exchange & 365": []
+            },
+            "link": false
+          },
+          {
+            "type": "list",
+            "text": {
+              "Centralized Management": [
+                "Calendar, contacts, email",
+                "Approval of new devices on network",
+                "Password Reset & Remote Control"
+              ]
+            },
+            "link": false
+          },
+          {
+            "type": "list",
+            "text": {
+              "MAAS Security & MAAS Compliance": [
+                "Remotely locate, lock, and wipe lost or stolen devices; selectively data wipes",
+                "Passcode Policies & Encryption Settings",
+                "Data leak prevention to restrict screen capture, sharing, copy & paste, and more"
+              ]
+            },
+            "link": false
+          },
+          {
+            "type": "list",
+            "text": {
+              "Monitoring & Reporting": [
+                "Self- service portal for users to help themselves",
+                "View device to diagnose and resolve issues remotely",
+                "View Detailed Hardware and Software Inventory Reports"
+              ]
+            },
+            "link": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "mainheading": "Share File",
+    "productImage": "/assets/images/products/sharefile.png",
+    "productIntro": [],
+    "content": {
+      "Say hello to the better way to work.": {
+        "type": "orderedlist",
+        "data": [
+          {
+            "type": "list",
+            "text": {
+              "Share, send any size file on any device.": [
+                "Whether you’re in the office or on the go, you’ll have secure access to your files anywhere, any time."
+              ]
+            },
+            "link": false
+          },
+          {
+            "type": "list",
+            "text": {
+              "Know your files are always safe.": [
+                "Bank-level encryption protects your files, emails and attachments in transit and at rest."
+              ]
+            },
+            "link": false
+          },
+          {
+            "type": "list",
+            "text": {
+              "Compliance support you can trust.": [
+                "Access and view all of your medical images in one place—without CDs or thumb drives.",
+                "Maintain compliance with HIPAA and FINRA regulatory support.",
+                "Get secure remote access to desktops and shared servers when you need it."
+              ]
+            },
+            "link": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "mainheading": "Vonage for Business",
+    "productImage": "/assets/images/products/vonage.png",
+    "productIntro": [],
+    "content": {
+      "Cut Costs While Improving Efficiency": {
+        "type": "orderedlist",
+        "data": [
+          {
+            "type": "paragraph",
+            "text": "Vonage for Business offers a host of features while guaranteeing no missed calls. Some of the most popular features include:",
+            "link": false
+          },
+          {
+            "type": "list",
+            "text": {
+              "Virtual Receptionist": [
+                "Route your callers to the right department, right away",
+                "Customize your call routing for holidays, lunch and after-hours",
+                "Standard feature; available with every Vonage business phone"
+              ]
+            },
+            "link": false
+          },
+          {
+            "type": "list",
+            "text": {
+              "Vonage Visual Voicemail®": [
+                "Get text copies of your voicemail emailed to you, instantly",
+                "Privately read your voicemails wherever you are",
+                "Premium feature; $4.99/month (per extension) extra"
+              ]
+            },
+            "link": false
+          },
+          {
+            "type": "list",
+            "text": {
+              "Admin Portal": [
+                "Fully manage and customize your phone system",
+                "Monitor account activity in real time",
+                "Standard feature; available with every Vonage business phone"
+              ]
+            },
+            "link": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "mainheading": "Odoo",
+    "productImage": "/assets/images/products/odoo.png",
+    "productIntro": [],
+    "content": {
+      "": {
+        "type": "paragraph",
+        "data": [
+          {
+            "type": "paragraph",
+            "text": "Odoo offers three separate versions of the solution; Odoo Enterprise, Odoo Online SaaS (Software as a Service) version, and the Odoo Community version. The Enterprise version is self hosted, and it includes all the apps. The Odoo Online version is hosted on a cloud.",
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "The Community version is the open source version. The Source code for the OpenObject framework and core ERP (enterprise resource planning) modules is curated by the Belgium-based Odoo S.A. The last fully featured Open Source version was 8.0 (LTS), available on GitHub under AGPLv3.Odoo is the most popular open source ERP system.",
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "Odoo is an all-in-one business software capable of covering all business needs, including CRM, Website/e-Commerce, billing, accounting, manufacturing, warehouse- and project management, and inventory, all seamlessly integrated.",
+            "link": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "mainheading": "SharePoint",
+    "productImage": "/assets/images/products/sharepoint.png",
+    "productIntro": [],
+    "content": {
+      "": {
+        "type": "paragraph",
+        "data": [
+          {
+            "type": "paragraph",
+            "text": "These business conditions, continuously ever changing, require you and your company to be on your toes. Be ready for everything that comes your way and that means finding solutions that provide stability and freedom. SharePoint provides all that and more. SharePoint is an application that provides flexibility to suit the needs of your company and help make the dream a reality.",
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "Organizations use SharePoint to create websites. You can use it as a secure place to store, organize, share, and access information from any device. All you need is a web browser, such as Microsoft Edge, Internet Explorer, Chrome, or Firefox.",
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "Making decisions faster and staying in contact are critical for making any organization more effective. Your ability to access information on the go is now a workplace necessity. SharePoint makes file storage and document collaboration more people-centric, with touch-based experiences across devices and improved mobile access to content, people, and applications",
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "Data loss is non-negotiable, and overexposure to information can have legal and compliance implications. SharePoint ",
+            "highlight": "provides a broad array of features and capabilities to help ensure that sensitive information remains safe and the right people have access to the right information, at the right time."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "mainheading": "Webroot",
+    "productImage": "/assets/images/products/webroot.png",
+    "productIntro": [],
+    "content": {
+      "": {
+        "type": "paragraph",
+        "data": [
+          {
+            "type": "paragraph",
+            "text": "Today’s threats use multiple vectors to attack, from malicious attachments to phishing sites. Only multi-vector protection from Webroot can secure endpoints and users across all stages of an attack.",
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "Webroot provides cybersecurity for homes and businesses. Discover cloud-based protection that stops threats in real time and secures businesses and individuals wherever they connect. Webroot is a multi-vector protection for endpoints and networks, as well as cloud-based threat intelligence services.",
+            "link": false
+          },
+          {
+            "type": "paragraph",
+            "text": "Webroot is simple and affordable, their award-winning security protects PCs, Mac® computers, and mobile devices. When you partner with Webroot, you get the protection, resources, flexible billing, and straightforward management you need to grow your business and deliver superior services.",
+            "link": false
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Samudra Vijay",
+    "role": "Chief Executive Officer",
+    "imageUrl": "samudravijay"
+  },
+  {
+    "name": "Jamie Pleasants",
+    "role": "Chief Operations Officer",
+    "imageUrl": "Jamiepleasants"
+  },
+  {
+    "name": "Bob Monaghan",
+    "role": "Account Manager",
+    "imageUrl": "Bobmonaghan"
+  },
+  {
+    "name": "Balakrishna Subramoney",
+    "role": "Lead Analyst – Cybersecurity.",
+    "imageUrl": "Balakrishnasubramoney"
+  },
+  {
+    "name": "Caroline High",
+    "role": "IT Technician",
+    "imageUrl": "Carolinehigh"
+  },
+  {
+    "name": "UMA S",
+    "role": "DIGITAL MARKETING HEAD",
+    "imageUrl": "umas"
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "mainHeading": "Managed Detection & Response (MDR)",
+    "imageUrl": "/img/servicesSection/securityServices/banner.jpg",
+    "content": [
+      {
+        "type": "paragraph",
+        "heading": "Overview",
+        "text": [
+          "Through the use of our Security Operations Center (SOC), we monitor and detect, both physical and virtual, threats in your environment. We provide pragmatic insights to harden your security.",
+          "You can have a good night’s rest with our infrastructure over-watch & security services at your disposal."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "heading": "What is it?",
+        "text": [
+          "Managed Detection & Response (MDR) is a service that was formed upon the need of organizations which lack the resources and manpower to be more cognizant of risks. SAM IT Security Services offers this service to help detect and respond to security threats and to overall increase integrity of security posture and harden security policies. SAM IT Security Services provides the sensor to supervise your network traffic. With our Cyber SOC (Security Operations Center) platform, we can bring State-of-the-Art Security Operations to your Organization, in the form of our new MDR (Managed Detection & Response) Services. We can monitor any physical environment (office, school, restaurant, dealership, etc.) or any virtual environment (server cluster, on-premises or cloud assets, etc.)",
+          "When it comes to your networks’ security, we believe in taking a proactive approach. Our CyberSOC is dedicated to uncover threats before they reach their point of finality. We utilize the Cyber KillChain Methodology to substantiate progression of cyber threats, and work to stop threat propagation in its tracks."
+        ]
+      }
+    ]
+  },
+  {
+    "mainHeading": "Penetration & Vulnerability Assessment",
+    "imageUrl": "/img/servicesSection/securityServices/banner2.jpg",
+    "content": [
+      {
+        "type": "paragraph",
+        "heading": "Overview",
+        "text": [
+          "Our White-Hat Ethical Hackers attack your environment and network just as a Bad-Actor would. We provide the insight into what vulnerabilities you might have, and the assistance to remediate them."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "heading": "Application Penetration Testing",
+        "text": [
+          "We handle and perform simple-to-complex Application Penetration Tests on any of your software or application that sit on the web/cloud. As a default, we cover the set standard, the OWASP Top 10 Dangerous Vulnerabilities, but can also go one step further with complex testing, depending on each client’s needs."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "heading": "Network Vulnerability Testing",
+        "text": [
+          "We provide Network Vulnerability Testing as a service to our clients. This type of testing involves us thoroughly investigating parts of your network that can be dangerous and cause potential/existing security risks. After testing, data is gathered, analyzed, and a report which details findings from the test is created. We also provide further testing if needs be to remediate any other client’s issues."
+        ]
+      }
+    ]
+  },
+  {
+    "mainHeading": "Social Engineering",
+    "imageUrl": "/img/servicesSection/securityServices/banner3.jpg",
+    "content": [
+      {
+        "type": "paragraph",
+        "heading": "Overview",
+        "text": [
+          "Your Company’s Human-Firewall chain is made up of your employees, and is only as strong as its weakest link. We identify those weak links and provide them with remedial training to increase digital literacy and resistance in the events of phishing attacks and social engineering exploits."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "heading": "What is it?",
+        "text": [
+          "Employees should be the first line of defense when it comes to cyber threats. For a better health of your organization, it is mandatory to ensure that you are able to count on your people. At SAM IT Security Services, we provide the necessary training to your staff to increase digital literacy in an attempt to prevent phishing attacks and social engineering exploits. We leverage State-of-the-Art tools which allow us to:"
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "",
+        "text": [
+          "craft custom Phishing Email Campaigns to test the integrity and competency of an Organization’s personnel",
+          "generate reports on a given Phishing campaign",
+          "and then provide a training resource(s) to increase employee’s confidence and overall secure-mindedness"
+        ]
+      }
+    ]
+  },
+  {
+    "mainHeading": "Security Awareness Training",
+    "imageUrl": "/img/servicesSection/securityServices/banner4.jpg",
+    "content": [
+      {
+        "type": "paragraph",
+        "heading": "Overview",
+        "text": [
+          "We conduct custom security awareness training and Webinars tailored to your company to help increase your employees’ digital and security literacy. Duration of these can range from 1-hr webinar to a one-week intensive hands-on on-site workshop. Contact us (hyperlink it to the contact us form) today to discuss your training needs."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "heading": "What is it?",
+        "text": [
+          "Does the human element of your Business need to increase their digital and security literacy? SAM IT Security Services can help with that. We hold Presentations and Webinars tailored for your companies. Our team of professionals will share their know-how with your staff to help keep your networks safe."
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "",
+        "text": [
+          "craft custom Phishing Email Campaigns to test the integrity and competency of an Organization’s personnel",
+          "generate reports on a given Phishing campaign",
+          "and then provide a training resource(s) to increase employee’s confidence and overall secure-mindedness"
+        ]
+      }
+    ]
+  },
+  {
+    "mainHeading": "Industries",
+    "imageUrl": "/img/servicesSection/securityServices/banner5.jpg",
+    "content": [
+      {
+        "type": "icons",
+        "heading": "",
+        "icons": {
+          "Law": "/icons/law.svg",
+          "Healthcare": "/icons/healthcare.svg",
+          "Financial": "/icons/financial.svg",
+          "Technology": "/icons/technology.svg",
+          "Government": "/icons/government.svg",
+          "Education": "/icons/education.svg",
+          "Retail": "/icons/retail.svg",
+          "E-commerce": "/icons/ecommerce.svg",
+          "Hospitality": "/icons/hospitality.svg",
+          "Manufacturing": "/icons/manufacturing.svg"
+        }
+      }
+    ]
+  }
+]

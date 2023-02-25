@@ -1,0 +1,42 @@
+[
+  {
+    "heading": "Healthcare",
+    "content": [
+      "As patients and diseases grow ever more numerous and data gets even more convoluted, Healthcare facilities find themselves spending more time managing data, leaving less time for people who truly need their help. SamIT works around the clock to organize and save information so that when doctors don’t need it, it’s out of sight, but when they do need it, it’s right in front of them. We work with several clinics and hospitals around the nation including Patagonia Health, EmergingMed, Optimus Urgent Care, and many others and each and every one of them has something good to say about SamIT.",
+      "Our knowledgeable and experienced workers can help companies in every stage of their working stages and will never fail to provide an answer to a technical question. We can resolve hardware issues by visiting or instructing a worker and software issues either through RDP or personal visits."
+    ],
+    "icon": "fa-regular  fa-hospital"
+  },
+  {
+    "heading": "Legal",
+    "content": [
+      "Jobs in law require a great deal of information and most if it – if not all – is utterly indispensable. SAM IT works with law firms to ensure that their data is present in its unaltered form whenever and wherever needed. Our reliability allows lawyers and other officials to complete their work in a most efficient manner, and ultimately, serve the community in the best way possible. Success in the legal field comes not just from the specialized skills of the workers in that field, but also from the professional help they receive and having a good IT company by your side can significantly boost productivity and quality. We are the professional help that will ensure you smoothness and success.",
+      "Our knowledgeable and experienced workers can help companies in every stage of their working stages and will never fail to provide an answer to a technical question. We can resolve hardware issues by visiting or instructing a worker and software issues either through RDP or personal visits."
+    ],
+    "icon": "fa-solid fa-legal"
+  },
+  {
+    "heading": "Life Sciences",
+    "content": [
+      "The Life Science field is rapidly expanding, but unfortunately, a swell of activity also leads to an excess of data that we have to sort through and organize. SamIT works with many Life Science facilities and efficiently manages and backs up their data. Thanks to SamIT, Life Science companies around the nation now find it easier to do the work they were trained to do and have the freedom to innovate without the burden of obstructive data. Somahlution and Global Pharma Analytics are just a few of the many Life Science companies that have benefitted from our work.",
+      "Our knowledgeable and experienced workers can help companies in every stage of their working stages and will never fail to provide an answer to a technical question. We can resolve hardware issues by visiting or instructing a worker and software issues either through RDP or personal visits."
+    ],
+    "icon": "fa-solid fa-flask"
+  },
+  {
+    "heading": "Manufacturing",
+    "content": [
+      "Manufacturing companies such as NCS Global know firsthand the benefits of SamIT Solutions’ support. Work in a field such as manufacturing requires hard work and dedication – 2 traits that our clients exemplify – but also effective helpers to solve problems beyond the manufacturing scope. We are experts in the field of data management and backup as well as adept technicians. SamIT is a host to a variety of intuitive workers who will systematically walk you through any and every problem.",
+      "Our knowledgeable and experienced workers can help companies in every stage of their working stages and will never fail to provide an answer to a technical question. We can resolve hardware issues by visiting or instructing a worker and software issues either through RDP or personal visits."
+    ],
+    "icon": "fa-solid fa-industry"
+  },
+  {
+    "heading": "Retail",
+    "content": [
+      "At SAM IT, we make sure we are providing you with the best possible equipment. Whether it is telephones we are giving or backup, SamIT guarantees the robustness and effectiveness of the product. Whether you are working with Healthcare, Manufacturing, or anything in between, we can ensure that you have access to cutting-edge technology that will let you carry out your tasks at maximum efficiency.",
+      "Our knowledgeable and experienced workers can help companies in every stage of their working stages and will never fail to provide an answer to a technical question. We can resolve hardware issues by visiting or instructing a worker and software issues either through RDP or personal visits."
+    ],
+    "icon": "fa-solid fa-shopping-basket"
+  }
+]
