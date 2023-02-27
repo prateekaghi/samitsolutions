@@ -33,7 +33,7 @@
         </NuxtLink>
       </div>
       <div class="py-5">
-        <nuxt-img class="my-5 rounded-2xl" src="/microsoft.jpg" />
+        <img class="my-5 rounded-2xl" src="/microsoft.jpg" />
       </div>
     </div>
   </div>
